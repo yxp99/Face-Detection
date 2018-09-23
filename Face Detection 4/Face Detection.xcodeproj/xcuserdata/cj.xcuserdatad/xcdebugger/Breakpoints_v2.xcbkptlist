@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Face Detection/Person.swift"
+            timestampString = "547014261.675189"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.Person.ID.getter : Swift.String"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cj/Google%20Drive/EECS%20392/Final%20Project/Face%20Detection/Face%20Detection/Person.swift"
+                  timestampString = "547013564.65042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.Person.ID.setter : Swift.String"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cj/Google%20Drive/EECS%20392/Final%20Project/Face%20Detection/Face%20Detection/Person.swift"
+                  timestampString = "547013564.656436"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "146">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Face Detection/Person.swift"
+            timestampString = "547014261.675423"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.Person.deinit"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cj/Google%20Drive/EECS%20392/Final%20Project/Face%20Detection/Face%20Detection/Person.swift"
+                  timestampString = "547013565.704638"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Face_Detection.Person.__deallocating_deinit"
+                  moduleName = "Face Detection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cj/Google%20Drive/EECS%20392/Final%20Project/Face%20Detection/Face%20Detection/Person.swift"
+                  timestampString = "547013565.70918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
